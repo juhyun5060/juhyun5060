@@ -2,8 +2,9 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=venom&text=Hi!%20I%27m%20Juhyun)
----
 </div>
+
+---
 
 <br/>
 <!-- 간단한 소개글 -->
